@@ -22,13 +22,12 @@ export default function Team() {
       </Link>
       <div>
         <div className="flex flex-col gap-2 text-5xl font-semibold text-[#18063c] mt-16 w-[50vw]">
-          <span>Example Team</span>
+          <span>Team KT</span>
         </div>
         <div className="flex flex-col gap-2 mt-14 text-sm text-gray-500">
           <span>
-            <span className="font-bold">&middot; Authors</span> : Byeon
-            Seoyoung, Han Seoyeon, Kim Youngju, Kim Yejin, Song Jinhyeong, Jung
-            Jiyeon
+            <span className="font-bold">&middot; Authors</span> : Jia-Zhen
+            Rao, Seongjoon Kim, Jiseon Hur
           </span>
           <span>
             <span className="font-bold">&middot; </span>
